@@ -1,0 +1,14 @@
+{
+  "snake": {
+    "head": ["textures\\h.png"],
+    "body": [
+    "textures\\b1.png",
+    "textures\\b2.png",
+    "textures\\b3.png"
+    ],
+    "tail": ["textures\\t.png"]
+  },
+  "food": ["textures\\food.png"],
+  "wall": ["textures\\wall.png"],
+  "empty": ["textures\\empty.png"]
+}
